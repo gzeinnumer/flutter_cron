@@ -1,6 +1,7 @@
 # flutter_cron
 
 [cron](https://pub.dev/packages/cron)
+[Source](https://medium.com/flutterworld/flutter-run-function-repeatedly-using-cron-4aa030eda332)
 
 ```dart
 cron: ^0.5.0
